@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+	<UseWindowsForms>true</UseWindowsForms>
+    <LangVersion>latest</LangVersion>
+
+	  
+	  
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CasqueDeMerde\casque qui ne marche pas\CortexAccess\CortexAccess.csproj" />
+    <ProjectReference Include="..\..\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\PerformMetrics.csproj" />
+    <ProjectReference Include="..\SpotifyAPI.Web.Auth\SpotifyAPI.Web.Auth.csproj" />
+    <ProjectReference Include="..\SpotifyAPI.Web\SpotifyAPI.Web.csproj" />
+    <ProjectReference Include="..\SpotifyEmotivInterface\SpotifyEmotivInterface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AudioSwitcher.AudioApi.CoreAudio">
+      <HintPath>..\..\..\..\.nuget\packages\audioswitcher.audioapi.coreaudio\3.0.0.1\lib\net40\AudioSwitcher.AudioApi.CoreAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\WindowsBase.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
