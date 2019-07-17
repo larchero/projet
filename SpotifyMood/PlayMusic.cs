@@ -68,13 +68,11 @@ namespace SpotifyMood
             PrivateProfile profile =  api.GetPrivateProfile();
             
             string id = profile.Id;
-            Console.WriteLine(id);
+            
 
-            FullPlaylist playlist = api.CreatePlaylist("larchero", "test");
+            FullPlaylist playlist = api.CreatePlaylist(id, name);
             Thread.Sleep(3000);
-            api.AddPlaylistTrack(playlistId: playlist.Id, "spotify:track:2No1A7ZuMaBGxz45jmA9Gw" );
-            Console.WriteLine(playlist.Name);
-
+            
             
 
 
@@ -175,21 +173,33 @@ namespace SpotifyMood
               FullPlaylist play = new FullPlaylist();
             string uri;
 
-            //while (true)
-            //{
-            
-            Console.WriteLine("Enter the URI of your " + name + " Playlist");
-            Console.WriteLine("");
-            try
+            while (true)
             {
-                uri = Console.ReadLine();
-                play = api.GetPlaylist(uri);
+
+                Console.WriteLine("Enter the URI of your " + name + " Playlist");
+                Console.WriteLine("");
+
+
+               
+                    uri = Console.ReadLine();
+
+                if (api.GetPlaylist(uri) == null)
+                {
+                    Console.WriteLine("enter a correct URI please");
+                }
+                else
+                {
+                    play = api.GetPlaylist(uri);
+                    Console.WriteLine("Thank you, Playlist loaded");
+                    Console.WriteLine("");
+                    break;
+                }
+                    
+                
+                
+                    
+                
             }
-            catch(Exception e)
-            {
-                Console.WriteLine(e.Message);
-            }
-            
          
             
             return play;
@@ -197,23 +207,7 @@ namespace SpotifyMood
 
 
 
-            //if (api.GetPlaylist(uri).Uri == null)
-            // {
-            // Console.WriteLine("Enter a corect URI please");
-            //}
-            //else
-            //{
-
-
-
-
-
-
-            //break;
-            //}
-
-
-            //}
+        
 
         }
 
