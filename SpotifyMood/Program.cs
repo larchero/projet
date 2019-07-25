@@ -144,35 +144,83 @@ namespace SpotifyAPI.Web.Example
                     Console.WriteLine("type 3 to create your own playlists");
 
 
+                    //string line = Console.ReadLine();
+                    // switch (line)
+                    //{
+
+
+                    // case "1":
+                    //    Playlists = PlayMusic.GetPlaylists(api);
+                    //    Console.WriteLine("press enter when you are ready");
+                    //    Console.ReadLine();
+                    //    break;
+
+
+                    //case "2":
+                    //Console.WriteLine("Please enter the Uri of yours playlists you want to load");
+                    //Playlists = PlayMusic.LoadPlaylists(api);
+                    //        Console.WriteLine("press enter when you are ready");
+                    //        Console.ReadLine();
+                    //        break;
+
+
+                    //    case "3":
+                    //        Playlists = PlayMusic.CreatePLaylists(api);
+                    //        Console.WriteLine("press enter when you are ready");
+                    //        Console.ReadLine();
+                    //        break;
+
+                    //    default:
+                    //        Console.WriteLine("Enter 1 2 or a 3");
+                    //        break;
+
+
+                    //}
+
+
+
+
+
+
+
+
+
+
                     while (true)
-                        
+
                     {
                         string mode = Console.ReadLine();
 
                         if (mode.Equals("1"))
                         {
                             Playlists = PlayMusic.GetPlaylists(api);
+                            
                             break;
                         }
 
-                        else if(mode.Equals("2"))
+                        else if (mode.Equals("2"))
                         {
                             Console.WriteLine("Please enter the Uri of yours playlists you want to load");
                             Playlists = PlayMusic.LoadPlaylists(api);
+                           
                             break;
                         }
 
                         else if (mode.Equals("3"))
                         {
                             Playlists = PlayMusic.CreatePLaylists(api);
+                            
                             break;
                         }
                         else
                         {
                             Console.WriteLine("Enter 1,2 or 3 please");
+                            
                         }
+
                     }
-                
+
+
 
 
                     FullPlaylist PlaylistMood = PlayMusic.GetPlaylistMood(Playlists);

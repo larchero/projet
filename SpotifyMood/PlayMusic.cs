@@ -183,12 +183,13 @@ namespace SpotifyMood
                
                     uri = Console.ReadLine();
 
-                if (api.GetPlaylist(uri) == null)
+                if (api.GetPlaylist(uri).Uri == null)
                 {
                     Console.WriteLine("enter a correct URI please");
                 }
                 else
                 {
+                    
                     play = api.GetPlaylist(uri);
                     Console.WriteLine("Thank you, Playlist loaded");
                     Console.WriteLine("");
@@ -258,13 +259,6 @@ namespace SpotifyMood
             double relaxation = Convert.ToDouble(data[4]);
             double interest = Convert.ToDouble(data[5]);
             double focus = Convert.ToDouble(data[6]);
-
-            //Int32 max = Math.Max(stress, Math.Max(relaxation, excitement));
-
-            //int stress = 1;
-            //int relaxation = 1;
-            //int excitement = 2;
-
 
 
             
