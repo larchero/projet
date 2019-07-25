@@ -1,0 +1,30 @@
+C:\Users\lmicheli\Source\Repos\cortex-v2-example\csharp\CortexAccess\obj\Debug\CortexAccess.csprojResolveAssemblyReference.cache
+C:\Users\lmicheli\Source\Repos\cortex-v2-example\csharp\CortexAccess\bin\Debug\CortexAccess.dll.config
+C:\Users\lmicheli\Source\Repos\cortex-v2-example\csharp\CortexAccess\bin\Debug\CortexAccess.dll
+C:\Users\lmicheli\Source\Repos\cortex-v2-example\csharp\CortexAccess\bin\Debug\CortexAccess.pdb
+C:\Users\lmicheli\Source\Repos\cortex-v2-example\csharp\CortexAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lmicheli\Source\Repos\cortex-v2-example\csharp\CortexAccess\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\lmicheli\Source\Repos\cortex-v2-example\csharp\CortexAccess\bin\Debug\WebSocket4Net.dll
+C:\Users\lmicheli\Source\Repos\cortex-v2-example\csharp\CortexAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lmicheli\Source\Repos\cortex-v2-example\csharp\CortexAccess\obj\Debug\CortexAccess.dll
+C:\Users\lmicheli\Source\Repos\cortex-v2-example\csharp\CortexAccess\obj\Debug\CortexAccess.pdb
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\CortexAccess\bin\Debug\CortexAccess.dll.config
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\CortexAccess\bin\Debug\CortexAccess.dll
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\CortexAccess\bin\Debug\CortexAccess.pdb
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\CortexAccess\obj\Debug\CortexAccess.csprojAssemblyReference.cache
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\CortexAccess\obj\Debug\CortexAccess.csproj.CoreCompileInputs.cache
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\CortexAccess\obj\Debug\CortexAccess.csproj.CopyComplete
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\CortexAccess\obj\Debug\CortexAccess.dll
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\CortexAccess\obj\Debug\CortexAccess.pdb
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\bin\Debug\CortexAccess.dll.config
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\bin\Debug\CortexAccess.dll
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\bin\Debug\CortexAccess.pdb
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\bin\Debug\WebSocket4Net.dll
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\obj\Debug\CortexAccess.csprojAssemblyReference.cache
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\obj\Debug\CortexAccess.csproj.CoreCompileInputs.cache
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\obj\Debug\CortexAccess.csproj.CopyComplete
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\obj\Debug\CortexAccess.dll
+C:\Users\cheva\source\repos\SpotifyAPI-NET\CortexAccess\obj\Debug\CortexAccess.pdb
