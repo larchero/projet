@@ -1,0 +1,29 @@
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\bin\Debug\PerformMetrics.exe.config
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\bin\Debug\PerformMetrics.exe
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\bin\Debug\PerformMetrics.pdb
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\bin\Debug\CortexAccess.dll
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\bin\Debug\WebSocket4Net.dll
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\bin\Debug\CortexAccess.pdb
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\bin\Debug\CortexAccess.dll.config
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\obj\Debug\PerformMetrics.csprojAssemblyReference.cache
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\obj\Debug\PerformMetrics.csproj.CoreCompileInputs.cache
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\obj\Debug\PerformMetrics.csproj.CopyComplete
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\obj\Debug\PerformMetrics.exe
+C:\Users\cheva\source\repos\CasqueDeMerde\casque qui ne marche pas\PerformMetrics\obj\Debug\PerformMetrics.pdb
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\bin\Debug\PerformMetrics.exe.config
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\bin\Debug\PerformMetrics.exe
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\bin\Debug\PerformMetrics.pdb
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\bin\Debug\CortexAccess.dll
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\bin\Debug\WebSocket4Net.dll
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\bin\Debug\CortexAccess.pdb
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\bin\Debug\CortexAccess.dll.config
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\obj\Debug\PerformMetrics.csprojAssemblyReference.cache
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\obj\Debug\PerformMetrics.csproj.CoreCompileInputs.cache
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\obj\Debug\PerformMetrics.csproj.CopyComplete
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\obj\Debug\PerformMetrics.exe
+C:\Users\cheva\source\repos\SpotifyAPI-NET\PerformMetrics\obj\Debug\PerformMetrics.pdb
